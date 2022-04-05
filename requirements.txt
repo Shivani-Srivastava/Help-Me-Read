@@ -42,6 +42,7 @@ Send2Trash==1.5.0
 sentencepiece==0.1.91
 six==1.15.0
 soupsieve==2.0.1
+streamlit
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
 tensorflow-gpu-estimator==2.3.0
